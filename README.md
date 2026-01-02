@@ -1,39 +1,41 @@
-# Vani Kaushik Portfolio
+# Karthik Bharadwaj Surya Portfolio
 
-This repository contains the source code for my personal portfolio website. The site showcases my research projects, skills, and professional journey as a Biomedical Engineer.
+This repository contains the source code for my personal portfolio website. The site showcases my software engineering projects, skills, and professional journey.
 
 ## Features
 
 - **Responsive Design**: Mobile-friendly layout and accessibility enhancements.
-- **Research Projects**: Displays biosensing and chemiluminescence research work.
-- **Skills & Tech Stack**: Highlights expertise in biomedical engineering, lab techniques, and instrumentation.
+- **Project Showcase**: Displays full-stack, cloud, and AI/ML projects.
+- **Skills & Tech Stack**: Highlights expertise in cloud infrastructure, DevOps, and full-stack development.
 - **Contact Section**: Easy-to-use contact form for outreach and networking.
+- **Blue/Cyan Tech Theme**: Modern color scheme designed for software engineering.
 
 ## About Me
 
-Biomedical Engineer with a perfect 10.0 CGPA from RCOEM Nagpur, specializing in biosensor technology, biomedical instrumentation, and research innovation. Experienced in chemiluminescence and electrochemiluminescence-based detection systems.
+Innovative Software Engineer with 2+ years of experience in cloud infrastructure, DevOps, and full-stack development. Proven experience in designing and deploying scalable backend systems on AWS, with a focus on implementing robust security protocols and automated CI/CD pipelines. Skilled in leveraging AI-driven solutions to optimize system performance and automate complex workflows.
 
 ## Technologies Used
 
-- **HTML / CSS / JavaScript**
-- Responsive web design principles
-- Font Awesome icons
-- Google Fonts
+- **Frontend**: HTML5, CSS3, JavaScript
+- **Backend Experience**: Node.js, Flask, React.js, Next.js
+- **Cloud & DevOps**: AWS, GCP, Azure, Docker, Kubernetes, CI/CD
+- **AI/ML**: TensorFlow, OpenAI APIs, GenAI
+- **Design**: Font Awesome icons, Google Fonts, Responsive Design
 
 ## How to Run Locally
 
 1. Clone the repository:
     ```
-    git clone https://github.com/vanikaushik1712/portfolio.git
+    git clone https://github.com/KarthikBharadwaj11/portfolio.git
     ```
 2. Open `index.html` in your browser.
 3. For advanced editing, use any preferred code editor (VS Code recommended).
 
 ## Contact
 
-- **Email**: vanikaushik1712@gmail.com
-- **LinkedIn**: [vani-kaushik](https://linkedin.com/in/vani-kaushik)
-- **GitHub**: [vanikaushik1712](https://github.com/vanikaushik1712)
+- **Email**: karthikbhs30@gmail.com
+- **LinkedIn**: [karthik-bharadwaj-surya](https://linkedin.com/in/karthik-bharadwaj-surya-a45502180/)
+- **GitHub**: [KarthikBharadwaj11](https://github.com/KarthikBharadwaj11)
 
 ## License
 

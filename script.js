@@ -1,5 +1,5 @@
 /* ============================================
-   SNEHA CHANDRA - PORTFOLIO JAVASCRIPT
+   KARTHIK BHARADWAJ SURYA - PORTFOLIO JAVASCRIPT
    Modern, Aesthetic, Creative, 3D, Responsive
    ============================================ */
 
@@ -77,7 +77,7 @@ function initParticles() {
     if (!particlesContainer) return;
 
     const particleCount = 50;
-    const colors = ['#8b5cf6', '#ec4899', '#06b6d4', '#a78bfa', '#f472b6'];
+    const colors = ['#0ea5e9', '#06b6d4', '#3b82f6', '#38bdf8', '#22d3ee'];
 
     for (let i = 0; i < particleCount; i++) {
         createParticle(particlesContainer, colors);
@@ -152,11 +152,11 @@ function initTypingEffect() {
     if (!typedElement) return;
 
     const roles = [
-        'Biomedical Engineer',
-        'Research Intern',
-        'Biosensor Specialist',
-        'Healthcare Innovator',
-        'Lab Researcher'
+        'Software Engineer',
+        'Cloud Architect',
+        'Full-Stack Developer',
+        'AI/ML Engineer',
+        'DevOps Specialist'
     ];
 
     let roleIndex = 0;
@@ -322,7 +322,7 @@ function initFormHandler() {
         };
 
         // Create mailto link
-        const mailtoLink = `mailto:snehachandra042@gmail.com?subject=${encodeURIComponent(data.subject)}&body=${encodeURIComponent(
+        const mailtoLink = `mailto:karthikbhs30@gmail.com?subject=${encodeURIComponent(data.subject)}&body=${encodeURIComponent(
             `Name: ${data.name}\nEmail: ${data.email}\n\nMessage:\n${data.message}`
         )}`;
 
@@ -361,7 +361,7 @@ function showNotification(message, type = 'info') {
         bottom: 2rem;
         right: 2rem;
         padding: 1rem 2rem;
-        background: ${type === 'success' ? 'linear-gradient(135deg, #8b5cf6 0%, #ec4899 100%)' : '#333'};
+        background: ${type === 'success' ? 'linear-gradient(135deg, #0ea5e9 0%, #06b6d4 100%)' : '#333'};
         color: white;
         border-radius: 10px;
         display: flex;
@@ -369,7 +369,7 @@ function showNotification(message, type = 'info') {
         gap: 1rem;
         z-index: 10000;
         animation: slideInRight 0.5s ease forwards;
-        box-shadow: 0 10px 40px rgba(139, 92, 246, 0.3);
+        box-shadow: 0 10px 40px rgba(14, 165, 233, 0.3);
     `;
 
     // Add animation keyframes
@@ -544,7 +544,7 @@ window.addEventListener('load', () => {
 /* ============================================
    CONSOLE EASTER EGG
    ============================================ */
-console.log('%c Welcome to Sneha Chandra\'s Portfolio! ',
-    'background: linear-gradient(135deg, #8b5cf6, #ec4899); color: white; font-size: 16px; padding: 10px 20px; border-radius: 5px;');
+console.log('%c Welcome to Karthik Bharadwaj Surya\'s Portfolio! ',
+    'background: linear-gradient(135deg, #0ea5e9, #06b6d4); color: white; font-size: 16px; padding: 10px 20px; border-radius: 5px;');
 console.log('%c Built with passion and creativity ',
-    'color: #8b5cf6; font-size: 12px;');
+    'color: #0ea5e9; font-size: 12px;');
